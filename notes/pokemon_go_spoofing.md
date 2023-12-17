@@ -51,7 +51,10 @@
 
 ## for OnePlus 6, Android 11
 
-link: https://docs.google.com/document/d/1tc1ygrT2q51jSmFMy6-VsRmc-lsROxrFEcAtrqH7z28/edit
+link: [source](https://docs.google.com/document/d/1tc1ygrT2q51jSmFMy6-VsRmc-lsROxrFEcAtrqH7z28/edit);
+from: [reddit](https://www.reddit.com/r/PoGoAndroidSpoofing/comments/171ry0n/rooted_method_1_lsposed_guide_for_android_8_9_10/);
+from: [reddit](https://www.reddit.com/r/PoGoAndroidSpoofing/comments/rtyeyg/clickpress_here_mega_post_4_everything_you_need/)
+
 1. install `Magisk`, enable `Zygisk`
 2. add `LSposed` to `Magisk`
 3. enable `Hide Mock Location` in `LSposed`
