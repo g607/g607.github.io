@@ -27,6 +27,10 @@
 
 - 申请时，中国护照自动注销
 - 无需预约时间，随时可去
+   - 申请时，上午10点，排队时长1-2小时
+   - 取证时，上午11点，排队时长30分钟
 - 地址：12 Old Jewry, London, EC2R 8DU
 - 办公时间：09：00-16：00 (https://bio.visaforchina.cn/LON3_EN/guanyuwomen/bangongshijianjidizhi)
 - 普通办理：第4个工作日取证
+- 出签后，任意一天可以取证，取证只需“取证单”，无需证件
+   - 一年内均可
