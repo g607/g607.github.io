@@ -61,3 +61,17 @@ from: [reddit](https://www.reddit.com/r/PoGoAndroidSpoofing/comments/rtyeyg/clic
 4. turn off Google location accuracy
 5. install joystick app
 6. add `SafetyNet` to `Magisk`
+
+---
+
+## Locations
+
+- Singapore:
+  - 16:00 - 17:00
+    - Maxwell
+    - Chinatown
+    - Bugis
+    - Anglo-Chinese school (Saturday)
+    - Dhoby Ghaut
+- New York:
+  - Central park (all day)
