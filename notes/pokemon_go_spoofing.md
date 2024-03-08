@@ -2,7 +2,7 @@
 
 ## for MOTO G4, Android 8
 
-1. install `adb-setup`, version >=1.4.3; this gives fastboot.exe, adb.exe
+1. install `adb-setup`, version >=1.4.3; this gives `fastboot.exe`, `adb.exe`
 2. unlock bootloader.
 3. in `developer options` (tap `About phone` > `Build number` multiple times), enable
     1. `OEM unlocking`
@@ -36,6 +36,10 @@
     7. copy the zip file to device
     8. open magisk, go to Modules, install the zip file
     9. reboot
+
+### Unlock bootloader
+
+1. find articles online, it differs on each device.
 
 ### Flash ROM
 
