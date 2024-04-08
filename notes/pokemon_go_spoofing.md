@@ -10,22 +10,24 @@
     3. `Select USB configuration` = MTP (or File transfer)
     4. `Advanced reboot` (not required, but helpful when flashing ROM is needed)
 4. install magisk
-    1. `adb reboot bootloader` Reboots your Android device into fastboot / bootloader mode.
-    2. `fastboot devices` to see devices
-    3. `fastboot boot twrp-<version>.img` to load twrp recovery (find img here: https://twrp.me/Devices/)
-    4. copy `Magisk-v24.3.zip` or .apk from PC to device (https://github.com/topjohnwu/Magisk/releases)
-    5. in twrp, `install`, select magisk apk, use default options, install & reboot
-    6. open Magisk, settings > hide magisk app
-    7. download `root checker` from Google Play, to check root
+    1. open a command window
+    2. `adb reboot bootloader` Reboots your Android device into fastboot / bootloader mode.
+    3. `fastboot devices` to see devices
+    4. `fastboot boot twrp-<version>.img` to load twrp recovery (find img here: https://twrp.me/Devices/)
+       - store the img file to a local folder on the PC, not on the phone
+    5. copy `Magisk-v24.3.zip` or .apk from PC to device (https://github.com/topjohnwu/Magisk/releases)
+    6. in twrp, `install`, select magisk apk, use default options, install & reboot
+    7. open Magisk, settings > hide magisk app
+    8. download `root checker` from Google Play, to check root
     8. download `SafetyNet Test` (by BITS Apps) from Google Play, to check network
-5. troubleshooting: SafetyNet Test failed response payload validation:
+6. t9oubleshooting: SafetyNet Test failed response payload validation:
     1. enable Zygisk in the Magisk app's options, do the same for the Denylist
     2. configure the Denylist with the apps you wish to hide root from (e.g. pokemon go)
     3. download `Universal Safetynet Fix` https://github.com/kdrag0n/safetynet-fix/releases
     4. install it as a module and reboot
-6. add Pokemon Go to Magisk's denylist
-7. download `Fake GPS Joystick & Routes Go`
-8. install SmaliPatcher:
+7. add Pokemon Go to Magisk's denylist
+8. download `Fake GPS Joystick & Routes Go`
+9. install SmaliPatcher:
     1. download smali patcher, 
         1. https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/
         2. https://forum.xda-developers.com/m/fomey.1620550/#recent-content
