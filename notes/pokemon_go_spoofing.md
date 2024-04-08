@@ -66,6 +66,12 @@ from: [reddit](https://www.reddit.com/r/PoGoAndroidSpoofing/comments/rtyeyg/clic
 5. install joystick app
 6. add `SafetyNet` to `Magisk`
 
+## for Redmi, Android 10
+
+1. download ROM: https://xiaomirom.com
+2. download MiFlash tool: https://xiaomiflashtool.com/ (or from other sources)
+3. flash the ROM
+
 ---
 
 ## Locations
