@@ -6,3 +6,10 @@
 - https://valid.x86.fr/depjnw
 
 # Company
+
+## Dell Latitude 5521
+
+- 11th Gen Intel® Core™ i7-11850H @ 2.50GHz
+- Single-Thread 498
+- Multi-Thread (16T) 4493
+- https://valid.x86.fr/fb27wv
