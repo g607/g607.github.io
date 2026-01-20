@@ -8,6 +8,12 @@
 
 # Company
 
+## Dell (2018)
+
+- Intel Core i7 8850H @ 3990.24MHz
+- Single-Thread ~485
+- Multi-Thread (16T) ~3556
+
 ## Dell Latitude 5521 (2022-02)
 
 - 11th Gen Intel® Core™ i7-11850H @ 2.50GHz
