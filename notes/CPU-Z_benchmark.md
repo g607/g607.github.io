@@ -19,7 +19,11 @@
    - Single-Thread 334
    - Multi-Thread (16T) 2212
    - https://valid.x86.fr/uysj3z
-- Speedometer: 17.1+-1.5
+- Speedometer 3.1:
+   - 17.1+-1.5
+   - Ultra performance = 22.5+-1.1
+   - Optimized = 23+-0.6
+   - Quiet = 14.4+-3.6
 
 ## Dell Pro Max 16 MC16250 (2026-01)
 
@@ -32,7 +36,7 @@
    - Single-Thread 792
    - Multi-Thread (16T) 9055
    - https://valid.x86.fr/7bef0m
-- Speedometer:
+- Speedometer 3.1:
    - Best performance = 40.2+-1.2
    - Balanced = 40.9+-1.3
    - Best power efficiency = 19.9+-1.2
