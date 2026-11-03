@@ -2,6 +2,73 @@
 
 switchtogether.co.uk
 
+| Item | 5 Panels Option | 7 Panels Option |
+|--------|--------:|--------:|
+| Number of Panels | 5 | 7 |
+| Total Price (incl. VAT) | £5,873 | £6,570 |
+| Price Difference | - | +£697 |
+| Recommended Battery Size | 15.6 kWh | 5.2 kWh |
+| Selected Battery Capacity | 10.4 kWh | 10.4 kWh |
+| Optional EV Charger | £1,000 | £1,000 |
+| Bird Proofing | Optional | Optional |
+| Trustpilot Rating | 4.8 | 4.8 |
+
+### Energy Performance
+
+| Metric | 5 Panels Option | 7 Panels Option |
+|--------|--------:|--------:|
+| Annual Generation | 2,086 kWh | 2,920 kWh |
+| Self Consumption (No Battery) | 480 kWh | 496 kWh |
+| Self Consumption (With Battery) | 1,460 kWh | 1,518 kWh |
+| Grid Independence (No Battery) | 32% | 33% |
+| Grid Independence (With Battery) | 80% | 80% |
+
+### First-Year Financial Estimates
+
+| Metric | 5 Panels Option | 7 Panels Option |
+|--------|--------:|--------:|
+| Energy Bill Savings (No Battery) | £125 | £129 |
+| Energy Bill Savings (With Battery) | £380 | £395 |
+| Export Income (No Battery) | £209 | £315 |
+| Export Income (With Battery) | £81 | £182 |
+| Total Annual Benefit (With Battery) | £461 | £577 |
+| Total Annual Benefit (No Battery) | £334 | £444 |
+
+### Price Breakdown
+
+| Component | 5 Panels Option | 7 Panels Option |
+|--------|--------:|--------:|
+| Complete Solar PV System | £2,912 | £3,539 |
+| Installation | £2,637 | £3,154 |
+| Shading Optimisation | £275 | £385 |
+| Battery Storage | £2,786 | £2,786 |
+| Bird Proofing | £175 | £245 |
+| Total Installed Cost | £5,873 | £6,570 |
+
+### Cost Efficiency
+
+| Metric | 5 Panels Option | 7 Panels Option |
+|--------|--------:|--------:|
+| Cost per Panel | £1,175 | £939 |
+| Cost per Annual kWh Generated | £2.82 | £2.25 |
+| Additional Cost vs 5 Panels | - | £697 |
+| Additional Generation vs 5 Panels | - | 834 kWh |
+| Cost per Additional Annual kWh | - | £0.84 |
+
+### Comparison Summary
+
+| Metric | Better Option |
+|--------|--------|
+| Lowest Upfront Cost | 5 Panels |
+| Highest Annual Generation | 7 Panels |
+| Highest Annual Benefit | 7 Panels |
+| Best Cost per Panel | 7 Panels |
+| Best Cost per Generated kWh | 7 Panels |
+| Best Battery-to-Solar Ratio | 5 Panels |
+| Best Overall Financial Value | 7 Panels |
+
+-----------------------
+
 ## System Summary
 
 | Item | Value |
